@@ -1,4 +1,4 @@
-DeveloperDesktopConfiguration
+Developer Desktop Configuration
 =============================
 
 This is a work in progress welcome documentation for Tesco Developer Desktops - Please contribute and ammend.
@@ -20,7 +20,7 @@ If you find a bug in the scripts or in the documentation please fix it for the n
 We will be running a scrum cadence with twice weekly stand-ups. We’ll also be running retrospectives and planning sessions to ensure we’re dealing with the right issues in the right order.
 
 Configuration for Developer Laptops, scripted installs.
-
+======
 Step 1. Connect to the wifi
 ------
 Connect to the networkConnect to the hidden network: `'p0w3r'`
