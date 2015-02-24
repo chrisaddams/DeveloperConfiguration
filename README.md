@@ -9,7 +9,7 @@ The machines are HP Z-Books with 16Gb RAM and i7 processors. They start life wit
 
 Rules
 ------
-You are responsible for setting up the machines and will be the administrator, and thus responsible for keeping them in good health.
+You are responsible for setting up the machines and will be the administrator, and thus responsible for keeping them in good health. You are responsible for the licencing of any OS or applications that are installed on the devices, as well as keeping the device and local data safe and secure in terms of encryption and antivirus.
 
 They are to connect ONLY either  to the ‘p0w3r’ network or a personal network. Under no circumstances should they be connected to ‘3n3rgy’ or a Tesco Ethernet cable – as this protects our corporate network from pollution.
 
