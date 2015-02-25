@@ -1,14 +1,9 @@
 Developer Desktop Configuration
 =============================
+Installs: #Install Java, Intellij, Virtualbox, Vim, Git, Node, NPM, Ruby, Express, Vagrant, Gradle, Maven, Spotify
 
-####1. Connect to wifi
-
-####2. Add git
-On Ubuntu:
-`Sudo apt-get install git`
-
-####3. Download the relevant Script
+####1. Download the relevant Script
 From either the Windows or Ubuntu folder
 
-####4. Run Script
+####2. Run Script
 You should now have a base developer  installation.
