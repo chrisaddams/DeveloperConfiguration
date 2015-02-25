@@ -1,3 +1,4 @@
+#Install Java, Intellij, Virtualbox, Vim, Git, Node, NPM, Ruby, Express, Vagrant, Gradle, Maven
 
 #install java
 sudo add-apt-repository ppa:webupd8team/java
@@ -12,11 +13,15 @@ tar xfz /tmp/intellij.tar.gz &&
 cd idea-IC-123.169/bin &&
 ./idea.sh
 #install virtual box
-sudo apt-get install dkms
+sudo apt-get install -y dkms
 wget -q http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc -O- | sudo apt-key add -
 sudo sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian trusty contrib" >> /etc/apt/sources.list.d/virtualbox.list'
-#install other packages
-sudo apt-get install vim git nodejs npm ruby-full 
+#install Vagrant
+sudo apt-get install -y vagrant
+#install Gradle and Maven
+sudo apt-get install -y gradle maven
+#install other packages - Vim, Git, Node, NPM, Ruby
+sudo apt-get install -y vim git nodejs npm ruby-full 
 #install express
 sudo npm install express
 #install spotify
