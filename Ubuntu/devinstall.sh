@@ -18,6 +18,7 @@ wget -q http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc -O- | s
 sudo sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian trusty contrib" >> /etc/apt/sources.list.d/virtualbox.list'
 #install Vagrant
 sudo apt-get install -y vagrant
+sudo vagrant plugin install vagrant-cachier
 #install Gradle and Maven
 sudo apt-get install -y gradle maven
 #install other packages - Vim, Git, Node, NPM, Ruby
