@@ -1,7 +1,7 @@
 Developer Desktop Configuration
 =============================
 
-####1. Connect to the wifi
+####1. Connect to wifi
 
 ####2. Add git
 On Ubuntu:
