@@ -8,7 +8,7 @@ echo oracle-java8-installer shared/accepted-oracle-license-v1-1 select true | su
 java -version
 javac -version
 #install intellij
-wget -O /tmp/intellij.tar.gz http://download.jetbrains.com/idea/ideaIC-14.0.3.tar.gz && tar xfz /tmp/intellij.tar.gz && bin/idea.sh
+wget -O /tmp/intellij.tar.gz http://download.jetbrains.com/idea/ideaIC-14.0.3.tar.gz && tar xfz /tmp/intellij.tar.gz && idea-IC-*/bin/idea.sh 
 #install virtual box
 sudo apt-get install -y dkms
 wget -q http://download.virtualbox.org/virtualbox/debian/oracle_vbox.asc -O- | sudo apt-key add -
